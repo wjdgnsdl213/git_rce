@@ -1,3 +1,6 @@
 [submodule "A/modules/x"]
 	path = A/modules/x
 	url = https://github.com/wjdgnsdl213/hook
+[submodule "hook"]
+	path = hook
+	url = https://github.com/wjdgnsdl213/hook
